@@ -1,0 +1,91 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+@font-face {
+    font-family: "Inter";
+    src: url(assets/fonts/static/Inter-Regular.ttf);
+}
+@font-face {
+    font-family: "Inter";
+    src: url(assets/fonts/static/Inter-ExtraBold.ttf);
+}
+@font-face {
+    font-family: "Inter";
+    src: url(assets/fonts/static/Inter-Bold.ttf);
+}
+@font-face {
+    font-family: "Inter";
+    src: url(assets/fonts/Inter-VariableFont_slnt\,wght.ttf);
+}
+body {
+    font-family: "Inter";
+}
+#mobile {
+    display: none;
+}
+@media(max-width: 375px){
+    #desktop {
+        display: none;
+    }
+    #mobile {
+        display: block;
+    }
+}
+#navbartarget li a:hover {
+  color: hsl(35, 77%, 62%);
+}
+.style-h1 {
+    font-weight: 800;
+}
+#btn {
+    background-color: hsl(5, 85%, 63%);
+    padding: 10px 30px;
+    color: hsl(36, 100%, 99%);
+}
+#btn:hover {
+  background-color: hsl(240, 100%, 5%);
+}
+p {
+    font-size: 15px;
+    color: hsl(233, 8%, 79%);
+    font-weight: 400;
+}
+#style-one {
+    background-color: hsl(240, 100%, 5%);
+    padding: 20px 7px;
+}
+#style-one h1 {
+    color: hsl(35, 77%, 62%);
+    font-weight: 700;
+}
+#style-one div {
+    margin: 20px auto;
+}
+#style-one div h4 {
+    color: hsl(36, 100%, 99%);
+}
+#style-one div h4:hover {
+  color: hsl(35, 77%, 62%);
+}
+#style-one hr {
+    color: hsl(233, 8%, 79%);
+}
+#style-two h2 {
+    color: hsl(233, 8%, 79%);
+    margin-bottom: 10px;
+}
+#style-two h5 {
+    color: hsl(240, 100%, 5%);
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+#style-two h5:hover {
+  color: hsl(5, 85%, 63%);
+}
+#style-two p {
+    color: hsl(236, 13%, 42%);
+}
