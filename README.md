@@ -27,17 +27,18 @@ Users can:
 
 ### Screenshot
 
-![DesktopImage]()
-![MobileImage]()
+![preview](https://user-images.githubusercontent.com/101353040/226902698-52c68218-50bc-4db0-8f8c-6d5a22add8e4.jpg)
+![DesktopImage](https://user-images.githubusercontent.com/101353040/226900898-a43992ac-22f4-4bf9-9c21-05cb56704641.png)
+![MobileImage](https://user-images.githubusercontent.com/101353040/226901359-568fc37a-bb5d-47eb-b1da-99880ac9c94a.png)
 
 ### Links
 
 - Github URL: [Newshomepage](https://github.com/Tolux001/NewsHomePage)
-- Live Site URL: [Newlivesite](https://newshomepage.netlify.app)
+- Live Site URL: [Newlivesite](https://newshompage.netlify.app/)
 
 ## My process
 
-
+My process contains all useful tools used in building and what i learnt
 ### Built with
 
 - Semantic HTML5 markup
@@ -74,4 +75,4 @@ gh repo clone Tolux001/NewsHomePage
 
 - Frontend Mentor - [@Tolux001](https://www.frontendmentor.io/profile/Tolux001)
 - Twitter         - [@Tolux001](https://www.twitter.com/tolux001)
-- LinkedIn [@Toluwalase Adejuwon](https://www.linkedin.com/in/adejuwon-toluwalase-660580234)
+- LinkedIn        - [@Toluwalase Adejuwon](https://www.linkedin.com/in/adejuwon-toluwalase-660580234)
