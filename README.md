@@ -28,8 +28,6 @@ Users can:
 ### Screenshot
 
 ![preview](https://user-images.githubusercontent.com/101353040/226902698-52c68218-50bc-4db0-8f8c-6d5a22add8e4.jpg)
-![DesktopImage](https://user-images.githubusercontent.com/101353040/226900898-a43992ac-22f4-4bf9-9c21-05cb56704641.png)
-![MobileImage](https://user-images.githubusercontent.com/101353040/226901359-568fc37a-bb5d-47eb-b1da-99880ac9c94a.png)
 
 ### Links
 
