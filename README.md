@@ -12,7 +12,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
   - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resoUseful
+  - [Useful resources](#useful-resources)
   - [clone repository](#clone-repository)
   - [Author](#author)
 
