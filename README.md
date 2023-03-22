@@ -1,6 +1,3 @@
-Title -Mobile first solution using Bootstrap 
-(https://www.markdownguide.org/)
-
 # Frontend Mentor - News homepage solution
 
 This is a solution to the [News homepage challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl). 
